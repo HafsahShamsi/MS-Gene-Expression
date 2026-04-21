@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 > Analysing blood gene expression from MS patients vs healthy controls using public GEO data — identifying dysregulated genes, visualising immune patterns, and connecting findings to known MS biology.
@@ -172,11 +171,6 @@ Key gene families of interest: **HLA genes**, **interferon signalling**, **myeli
 * Barrett T et al. (2013). *NCBI GEO: archive for functional genomics data sets.* Nucleic Acids Research.
 * GEOparse library: https://geoparse.readthedocs.io
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
